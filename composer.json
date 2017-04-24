@@ -1,0 +1,24 @@
+{
+    "name": "dominikveils/goo-gl",
+    "description": "goo.gl URL shortener API",
+    "type": "library",
+    "keywords": [
+        "goo.gl",
+        "URL shortener",
+        "short url",
+        "google"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dominik Veils",
+            "email": "dominikveils@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DominikVeils\\Googl\\": "src/"
+        }
+    }
+}
